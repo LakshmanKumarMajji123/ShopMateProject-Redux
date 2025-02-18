@@ -1,0 +1,2 @@
+# ShopMateProject-Redux
+Redux
